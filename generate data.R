@@ -10,7 +10,7 @@ n_subjects <- 20
 
 n_trials <- 40
 
-time_baseline <- 1.5 # Baseline reaction time (intercept)
+time_baseline <- 2 # Baseline reaction time (intercept)
 
 time_effectA <- .2
 
